@@ -1,0 +1,5 @@
+#head {
+    border-bottom-left-radius: 6cm 20px;
+    border-bottom-right-radius: 6cm 20px;
+    background-image: linear-gradient(to left, skyblue, black);
+}
